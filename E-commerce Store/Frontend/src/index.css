@@ -1,0 +1,60 @@
+main {
+  min-height: 80vh;
+}
+.logo {
+  font-family: "Kaushan Script", cursive;
+  font-size: 30px;
+}
+
+span {
+  color: red;
+}
+h3 {
+  padding: 1rem;
+}
+
+h1 {
+  font-size: 1.8rem;
+  padding: 1rem 0;
+}
+h2 {
+  font-size: 1.4rem;
+  padding: 0.5rem 0;
+}
+.rating span {
+  margin: 0.1rem;
+}
+
+/* order history page */
+.orderHistoryHeading{
+    font-weight: bold;
+    font-size: 1.2rem;
+    text-align: center;
+}
+.orderHistoryData{
+  font-size: 1rem;
+  text-align: center;
+}
+.orderHistHeading{
+  background-color: rgb(238, 238, 238);
+}
+
+.orderHistData{
+  background-color: rgb(254, 254, 254);
+}
+
+/* user profile page */
+.profileHeading{
+  font-weight: bold;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+footer {
+  background-color: rgba(51, 58, 65, 0.762);
+}
+.footerText{
+  color: white;
+  font-size: 1rem;
+  margin-top: 12px;
+}
